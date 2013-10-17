@@ -12,7 +12,7 @@ then
 fi
 ```
 
-Right now thi sis set for deep scanning, if you want to do a turboscan just remove
+Right now this is set for deep scanning, if you want to do a turboscan just remove
 ```
 ?deep=1
 ```
