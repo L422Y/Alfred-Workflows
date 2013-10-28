@@ -12,4 +12,5 @@ Switches to Airmails unified inbox and puts focus on the search field. The query
 so you can paste it into the field
 
 *to-do*
+
 Figure out why the field wont autopaste with Applescript
