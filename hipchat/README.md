@@ -4,3 +4,7 @@ They're written using applescript and take advantage of HipChat for Mac's keyboa
 hc search <query> will perform a search
 
 hc away/dnd/available <message> will set your status. Message is optional.
+
+*To-do*
+
+Combine the status workflows into one simple Applescript IF statement.
